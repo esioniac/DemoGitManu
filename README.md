@@ -41,28 +41,8 @@ Où personne ne nous dit
 C'est interdit 
 De croire encore au bonheur 
 
-#(Jasmine:) 
-Ce rêve bleu 
-Je n'y crois pas, c'est merveilleux 
-Pour moi, c'est fabuleux 
-Quand dans les cieux 
-Nous partageons ce rêve bleu à deux 
-
 #(Aladdin:) 
 Nous faisons ce rêve bleu à deux 
-
-#(Jasmine:) 
-Sous le ciel de cristal 
-Je me sens si légère 
-Je vire, délire et chavire 
-Dans un océan d'étoiles 
-Ce rêve bleu 
-(Aladdin: ne ferme pas les yeux) 
-C'est un voyage fabuleux 
-(Aladdin: Et contemple ces merveilles) 
-Je suis montée trop haut 
-Allée trop loin 
-Je ne peux plus retourner d'où je viens 
 
 #(Aladdin:) 
 Un rêve bleu 
@@ -80,9 +60,6 @@ Aux mille nuits
 
 #(Aladdin:) 
 Qui durera 
-
-#(Jasmine:) 
-Pour toi et moi 
 
 #(Ensemble:) 
 Toute la vie 
