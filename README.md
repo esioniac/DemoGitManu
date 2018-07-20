@@ -1,5 +1,5 @@
 <p align="center">
-![Github Logo](github.png)
+  <img width="440" height="184" src="github.png">
 </p>
 
 # TP Git / Github
