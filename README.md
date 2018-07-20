@@ -1,7 +1,7 @@
 ![Github Logo](github.png)
 
 # TP Git / Github
-* Présentation de quelques commandes utilisables sur Git. *
+*Présentation de quelques commandes utilisables sur Git.*
 
 Commande | Description | Option(s) utile(s)
 -------- | -------- | --------
