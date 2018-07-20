@@ -23,3 +23,66 @@ Commande | Description | Option(s) utile(s) | Exemple d'utilisation
 **ls** | Affiche la liste des fichiers et dossiers du fichier courant. | -a : affiche tous les éléments ainsi que ceux masqués. | ls
 **cd** | Permet de changer de répertoire. | | cd MonDossier
 **mkdir** | Crée un nouveau dossier. | | mkdir MonNouveauDossier
+
+#(Aladdin:) 
+Je vais t'offrir un monde 
+Aux mille et une splendeurs 
+Dis-moi, princesse, n'as-tu jamais 
+Laissé parler ton coeur ? 
+
+Je vais ouvrir tes yeux 
+Aux délices et aux merveilles 
+De ce voyage en plein ciel 
+Au pays du rêve bleu 
+
+Ce rêve bleu 
+C'est un nouveau monde en couleurs 
+Où personne ne nous dit 
+C'est interdit 
+De croire encore au bonheur 
+
+#(Jasmine:) 
+Ce rêve bleu 
+Je n'y crois pas, c'est merveilleux 
+Pour moi, c'est fabuleux 
+Quand dans les cieux 
+Nous partageons ce rêve bleu à deux 
+
+#(Aladdin:) 
+Nous faisons ce rêve bleu à deux 
+
+#(Jasmine:) 
+Sous le ciel de cristal 
+Je me sens si légère 
+Je vire, délire et chavire 
+Dans un océan d'étoiles 
+Ce rêve bleu 
+(Aladdin: ne ferme pas les yeux) 
+C'est un voyage fabuleux 
+(Aladdin: Et contemple ces merveilles) 
+Je suis montée trop haut 
+Allée trop loin 
+Je ne peux plus retourner d'où je viens 
+
+#(Aladdin:) 
+Un rêve bleu 
+(Jasmine: Sur les chevaux du monde) 
+Vers les horizons du bonheur 
+(Jasmine: Dans la poussière d'étoiles) 
+
+#(Ensemble:) 
+Naviguons dans le temps 
+Infiniment 
+Et vivons ce rêve merveilleux 
+
+Ce rêve bleu 
+Aux mille nuits 
+
+#(Aladdin:) 
+Qui durera 
+
+#(Jasmine:) 
+Pour toi et moi 
+
+#(Ensemble:) 
+Toute la vie 
