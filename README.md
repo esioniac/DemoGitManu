@@ -1,4 +1,6 @@
+<p align="center">
 ![Github Logo](github.png)
+</p>
 
 # TP Git / Github
 *Présentation de quelques commandes utilisables sur Git.*
