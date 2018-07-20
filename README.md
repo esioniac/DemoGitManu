@@ -1,4 +1,4 @@
-![Github Logo](https://dyw7ncnq1en5l.cloudfront.net/optim/news/75/75755/-c-github.jpg =450x250)
+![Github Logo](https://dyw7ncnq1en5l.cloudfront.net/optim/news/75/75755/-c-github.jpg ){:height="450px" width="250px"}
 
 # TP Git / Github
 * Présentation de quelques commandes utilisables sur Git. *
